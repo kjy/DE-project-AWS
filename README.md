@@ -22,7 +22,9 @@ Data Engineering class can be found here:  https://github.com/DataTalksClub/data
 
 ## Data Visualization and Insights
 
-![Alt text](/image/quicksight_country_bar.jpeg "Count of Records by Country") ![Alt text](/image/quicksight_country_pie.jpeg "Country")
+<img src="image/quicksight_country_bar.jpeg" width="100" >
+
+![Alt text](image/quicksight_country_bar.jpeg "Count of Records by Country") ![Alt text](image/quicksight_country_pie.jpeg "Country")
 
 ![Alt text](/image/quicksight_variety.jpeg "Variety") ![Alt text](/image/quicksight_province.jpeg "Province")
 

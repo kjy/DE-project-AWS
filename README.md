@@ -20,7 +20,7 @@ Kaggle data can be found here: https://www.kaggle.com/datasets/zynicide/wine-rev
 Data Engineering class can be found here:  https://github.com/DataTalksClub/data-engineering-zoomcamp
 
 
-## Data Visualization and Insights
+## Data Visualization and Insights from AWS QuickSight
 
 Countries
 ![Alt text](/image/quicksight_country_bar.jpeg "Count of Records by Country") ![Alt text](image/quicksight_country_pie.jpeg "Country")
@@ -49,9 +49,9 @@ How many wines are from Bulgaria?  77.
 
 What is the max price of wines for each country. Order the wines within each country by points.
 
-What are all the Willamette Valley regions, for region 1 and region 2? 100+.
+What are all the wines from Willamette Valley regions, for region 1 or region 2? 100+.
 
-Calculate the rank of wines in the table according to price withint each country.  Provide rank number
+Calculate the rank of wines in the table according to price within each country.  Provide rank number
 by price in descending order by country.
 
 How many wines are Californian Pinot Noir?

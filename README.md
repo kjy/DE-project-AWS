@@ -22,11 +22,19 @@ Data Engineering class can be found here:  https://github.com/DataTalksClub/data
 
 ## Data Visualization and Insights
 
-
+Countries
 ![Alt text](/image/quicksight_country_bar.jpeg "Count of Records by Country") ![Alt text](image/quicksight_country_pie.jpeg "Country")
 
-![Alt text](/image/quicksight_variety.jpeg "Variety") ![Alt text](/image/quicksight_province.jpeg "Province")
+Varieties
+![Alt text](/image/quicksight_variety.jpeg "Variety") 
 
-![Alt text](/image/quicksight_region1.jpeg "Region 1") ![Alt text](/image/quicksight_region2.jpeg "Region 2")
+Provinces
+![Alt text](/image/quicksight_province.jpeg "Province")
+
+Wine region 1
+![Alt text](/image/quicksight_region1.jpeg "Region 1") 
+
+Wine region 2
+![Alt text](/image/quicksight_region2.jpeg "Region 2")
 
 

@@ -37,4 +37,27 @@ Wine region 1
 Wine region 2
 ![Alt text](/image/quicksight_region2.jpeg "Region 2")
 
+## Some Questions from Athena Queries
+
+How many countries are in this dataset? 49.
+
+What is the average price of wines for each country? Order the wines within each country by points.
+
+How many wines are from Spain's region of Cava? 100+.
+
+How many wines are from Bulgaria?  77.
+
+What is the max price of wines for each country. Order the wines within each country by points.
+
+What are all the Willamette Valley regions, for region 1 and region 2? 100+.
+
+Calculate the rank of wines in the table according to price withint each country.  Provide rank number
+by price in descending order by country.
+
+How many wines are Californian Pinot Noir?
+
+Find all wines that are the variety of Cabernet Sauvignon that have a price greater than $20 and points greater than 94.
+
+
+
 

@@ -1,4 +1,4 @@
-# DataEngineering-project
+# Data Engineering Project
 Data pipeline, ETL, Kaggle, csv, parquet, AWS CLI, AWS cloud, S3, Glue, Athena, QuickSight
 
 

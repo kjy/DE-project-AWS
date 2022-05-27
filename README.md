@@ -8,7 +8,7 @@ This was an end-to-end data engineering project from source to destination, usin
 
 ## Architecture of Data Pipeline
 
-![Alt text](/image/data_pipeline_image.jpeg "Data pipeline visualization")
+![Alt text](/images/data_pipeline_image.jpeg "Data pipeline visualization")
 
 ## Data Source
 The data comes from Kaggle's dataset which has wine reviews. The record count is 150,930. 
@@ -23,19 +23,19 @@ Data Engineering class can be found here:  https://github.com/DataTalksClub/data
 ## Data Visualization and Insights from AWS QuickSight
 
 Countries
-![Alt text](/image/quicksight_country_bar.jpeg "Count of Records by Country") ![Alt text](image/quicksight_country_pie.jpeg "Country")
+![Alt text](/images/quicksight_country_bar.jpeg "Count of Records by Country") ![Alt text](images/quicksight_country_pie.jpeg "Country")
 
 Varieties
-![Alt text](/image/quicksight_variety.jpeg "Variety") 
+![Alt text](/images/quicksight_variety.jpeg "Variety") 
 
 Provinces
-![Alt text](/image/quicksight_province.jpeg "Province")
+![Alt text](/images/quicksight_province.jpeg "Province")
 
 Wine region 1
-![Alt text](/image/quicksight_region1.jpeg "Region 1") 
+![Alt text](/images/quicksight_region1.jpeg "Region 1") 
 
 Wine region 2
-![Alt text](/image/quicksight_region2.jpeg "Region 2")
+![Alt text](/images/quicksight_region2.jpeg "Region 2")
 
 ## Some Questions from Athena Queries
 
